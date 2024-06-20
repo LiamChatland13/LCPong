@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "LCPong",
+			"Path": "..\\Source\\LCPong.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "LCPongEditor",
+			"Path": "..\\Source\\LCPongEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
